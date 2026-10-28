@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="JewelryWorkshop/JewelryWorkshop.csproj" Id="0ec98bb3-728a-47d2-a2ac-33369e89bac5">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
